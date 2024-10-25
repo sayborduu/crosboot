@@ -38,7 +38,6 @@ initialize_crosboot() {
 
 initialize_crosboot
 
-# Load the current set name from settings file
 
 echo "┌────────────────────────────────────────────────┐"
 echo "│ Welcome to crosboot! Please, select an option. │"
@@ -59,6 +58,7 @@ fi
 
 echo " "
 
+sleep 1
 read -p "$(echo -e ${YELLOW}select an option: ${RESET})" choice
 
 case "$choice" in
