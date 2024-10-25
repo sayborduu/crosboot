@@ -15,8 +15,8 @@ Just so you know, crosboot is in beta. While nothing should mess up your OS, it'
 
 ---
 
-- make sure you have ready your boot gif as png images.
-- images must be ready in **ChromeOS File Explorer** (locally, not on Google Drive), crosboot will access it
+- just have your boot GIF converted into PNG images
+- make sure the images are ready in **ChromeOS File Explorer** (locally, not on Google Drive) since crosboot will need to access them
 - [iOS Video to ChromeOS boot splash shortcut](https://www.icloud.com/shortcuts/71343bb25d1446e19ee9c99182a7d223)
 
 ## Usage
@@ -24,6 +24,8 @@ Just so you know, crosboot is in beta. While nothing should mess up your OS, it'
 ```shell
 cd; curl -LO sayborduu.github.io/crosboot/crosboot.sh && sudo bash crosboot.sh
 ```
+> [!IMPORTANT]  
+> Make sure to set the FPS to match your GIF's FPS.
 
 ## Authors
 
