@@ -22,3 +22,8 @@ cd; curl -LO sayborduu.github.io/crosboot/crosboot.sh && sudo bash crosboot.sh
 ## Authors
 
 - [@sayborduu](https://www.github.com/sayborduu)
+
+## Tips
+
+- Feel free to whip up your own folder stuffed with different boot screens (just keep each one in its own folder).
+- You can totally use apps like CapCut on iOS to make a cool video for your boot screen, then check out [this shortcut](https://www.icloud.com/shortcuts/71343bb25d1446e19ee9c99182a7d223) to convert it to PNG and rename it to fit ChromeOS's boot screen format.
