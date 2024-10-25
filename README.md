@@ -11,6 +11,8 @@ crosboot is a handy tool for tweaking your ChromeOS boot screen
 ---
 
 - make sure you have ready your boot gif as png images.
+- [iOS Video to ChromeOS boot splash shortcut](https://www.icloud.com/shortcuts/71343bb25d1446e19ee9c99182a7d223)
+
 ## Usage
 
 ```shell
