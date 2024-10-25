@@ -3,6 +3,11 @@
 
 crosboot is a handy tool for tweaking your ChromeOS boot screen
 
+## ⚠️ Warning
+
+Just so you know, crosboot is in beta. While nothing should mess up your OS, it's a good idea to back up your default boot screen just in case crosboot didn’t save it. 
+(better safe than sorry!!)
+
 ## Before you start - [source](https://gist.github.com/supechicken/c57f8bb4b9dad2a29611ce05b1324b5c?permalink_comment_id=4444479#before-you-start)
 
 - Enable Chrome OS developer mode
